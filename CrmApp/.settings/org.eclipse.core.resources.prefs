@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/home/index.jsp=UTF-8
+encoding//src/com/myclass/connection/JDBCConnection.java=UTF-8
+encoding//src/com/myclass/controller/AuthController.java=UTF-8
+encoding//src/com/myclass/controller/HomeController.java=UTF-8
+encoding//src/com/myclass/controller/RoleController.java=UTF-8
+encoding//src/com/myclass/controller/UserController.java=UTF-8
+encoding//src/com/myclass/dao/RoleDao.java=UTF-8
+encoding//src/com/myclass/dao/UserDao.java=UTF-8
+encoding//src/com/myclass/filter/AuthFilter.java=UTF-8
+encoding//src/com/myclass/filter/Utf8Filter.java=UTF-8

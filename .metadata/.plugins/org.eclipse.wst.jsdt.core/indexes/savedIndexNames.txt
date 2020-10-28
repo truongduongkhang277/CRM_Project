@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Duong Khang\Desktop\CRM\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2325383407.index
+957630334.index
+950927269.index
+3035191091.index
+527511713.index

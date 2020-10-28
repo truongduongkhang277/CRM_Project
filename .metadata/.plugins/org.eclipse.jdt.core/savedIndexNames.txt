@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Duong Khang\Desktop\CRM\.metadata\.plugins\org.eclipse.jdt.core
+4148675283.index
+1433384873.index
+2710742507.index
+393649284.index
+2666208532.index
+2788826102.index
+3315025706.index
+3035191091.index
+1261666000.index
